@@ -13,3 +13,11 @@ wheels/
 .vscode/
 .idea/
 .DS_Store
+
+# BoozeKing
+boozeking/*.mp3
+boozeking/*.wav
+boozeking/*.mp4
+boozeking/assets/sounds/
+boozeking/assets/images/
+boozeking/game/fonts/**
