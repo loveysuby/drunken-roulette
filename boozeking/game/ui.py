@@ -64,7 +64,6 @@ class UI:
             text_rect.topleft = (x, y)
         self.screen.blit(text_surface, text_rect)
         return text_rect
-        return text_rect
 
     def draw_button(self, text, font, text_color, button_color, x, y, padding=10):
         text_surface = font.render(text, True, text_color)
